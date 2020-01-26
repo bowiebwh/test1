@@ -7,5 +7,6 @@ public class test {
 		Scanner input = new Scanner(System.in);
 		String s = input.next();
 		System.out.println(s);
+		System.out.println("hello world!");
 	}
 }
